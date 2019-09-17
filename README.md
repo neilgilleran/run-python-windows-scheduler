@@ -2,5 +2,5 @@
 
 How to run a python script from windows scheduler
 
-[ ] * Create script text-opener.py
-[ ] * Configure scheduler
+[checkbox:unchecked] Create script text-opener.py
+[checkbox:unchecked] Configure scheduler
