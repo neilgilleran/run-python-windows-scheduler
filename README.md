@@ -21,6 +21,7 @@ How to run a python script from windows scheduler
 1. In the Action dialog, select Start a program and click Next.
 1. In the Program/script field, browse and select the batch file then click Open.
 1. For example, enter C:\Users\neil\git\run-python-windows-scheduler\text-batch.bat
+1. It is also possible to point directly to python.exe and add the script.py as the argument and the path as the Start in option.
 1. Click Next.
 1. In the Summary dialog, select Open the Properties dialog for this task when I click Finish and then click Finish. The Maintenance Manager Properties dialog opens.
 1. If the Properties window for the Maintenance Manager task is not already open, double-click the task name in the Task Scheduler Library.
@@ -31,3 +32,4 @@ How to run a python script from windows scheduler
 1. Ensure that the Maintenance Manager domain/Windows account is correct, enter the password, then click OK.
 1. Click OK to close the Properties window.
 1. Close the Task Scheduler.
+
