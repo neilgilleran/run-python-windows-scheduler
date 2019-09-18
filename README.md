@@ -2,8 +2,9 @@
 
 How to run a python script from windows scheduler
 
-* Create script text-opener.py
-* Configure scheduler
+1. Create python script
+1. Create batch file
+1. Configure Task Scheduler
 
 
 ## Configure Windows Task Scheduler
