@@ -1,4 +1,4 @@
-# run-python-windows-scheduler
+# Running a python script via Windows Task Scheduler
 
 How to run a python script from windows scheduler
 
